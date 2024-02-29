@@ -1,0 +1,14 @@
+console.log("----- Report Card -----");
+console.log("Student Name :- JS");
+console.log("Grade :- 8");
+console.log("-----------------------");
+console.log("Subject      Score      Grade");
+console.log("-----------------------");
+console.log("Math             90       A+");
+console.log("Secience         85       A+");
+console.log("English          92       A");
+console.log("History          88       A+");
+console.log("Geography        82       A");
+console.log("-----------------------");
+console.log("Total Marks: 437");
+console.log("Average Marks: 87.4");
